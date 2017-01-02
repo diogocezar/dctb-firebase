@@ -1,0 +1,13 @@
+{
+	"mural":
+	[
+		{
+			"nome" : "diogo",
+			"msg"  : "olá mundo"
+		},
+		{
+			"nome" : "josé",
+			"msg"  : "olá mundo"
+		}
+	]
+}
